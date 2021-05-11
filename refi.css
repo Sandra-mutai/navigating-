@@ -1,0 +1,48 @@
+/* .button{
+
+    float: right;
+    background-color:thistle;
+    padding: 15px;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 30%;
+    margin: auto 10%;
+
+
+}*/
+
+.read{
+    text-align: right;
+    background-color:thistle;
+    padding: 3px;
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: auto;
+
+}
+body{
+     background-color: wheat;
+     justify-content: space-evenly;
+    background-repeat: no-repeat;
+    text-align: center;
+
+}
+.photo{
+
+    max-height: 200px;
+    max-width: 200px;
+    width: 180px;
+    height: 200px;
+
+}
+.me {
+    font-size: 40px;
+
+}
+.her{
+    text-align: center;
+
+}
+#center{
+    text-align: right;
+}

@@ -1,0 +1,15 @@
+body{
+    background-color: wheat;
+}.header1{
+    text-align: right;
+    padding: 30px;
+    background-color: thistle;
+    justify-content: space-evenly;
+    display: flex;
+}
+a:hover{
+    color: greenyellow;
+}
+h1{
+    text-align: center;
+}

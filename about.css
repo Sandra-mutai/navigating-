@@ -1,0 +1,47 @@
+body{
+    background-color: wheat;
+    background-image: images(9)jpeg;
+
+
+}
+.jane{
+    text-align: right;
+    background-color: thistle;
+    padding: 8px;
+    justify-content: space-evenly;
+    display: flex;
+
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: skyblue;
+    padding: 10px;
+    justify-content: space-evenly;
+    display: flex;
+
+
+
+}
+
+#image{
+    background-position: center;
+}
+a:hover{
+    color: greenyellow;
+}
+.column{
+    float: left;
+    width: 45.5%;
+    padding: 5px;
+
+
+}
+.row::after{
+display: table;
+clear: both;
+content: "";
+}
+

@@ -1,0 +1,16 @@
+body{
+    background-image: url(Snapchat-1175416626.jpg);
+
+
+}
+
+.button{
+
+    float: right;
+    background-color:brown;
+    padding: 15px;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 30%;
+    margin: auto 10%;
+}
